@@ -13,7 +13,7 @@ At first make sure you have nodejs and npm installed in our machine.
 
 This app is a SPA with 4 main pages: **Home**, **About**, **User** and **NotFound**.
 
-You can search by login and find a list of users, then click and more and
+You can search by login and find a list of users, then click in more button and
 see the user bio and your last 5 projects.
 
 The About page contains information about App like version and a little explanation of how app works.
