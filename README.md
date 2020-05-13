@@ -4,7 +4,7 @@
 
 At first make sure you have nodejs and npm installed in our machine.
 
-- clone this repository and then enter into the folder `cd githun-filder`;
+- clone this repository and then enter into the folder `cd githun-finder/`;
 - install all dependencies with `npm install` or `yarn install`;
 - run in development mode with `yarn start`;
 - generate a production bundle with `yarn run build`;
