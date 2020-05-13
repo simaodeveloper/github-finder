@@ -1,5 +1,7 @@
 # Github Finder
 
+A Github Finder App made with React + Hooks + Context API + Github API
+
 ## How to run
 
 At first make sure you have nodejs and npm installed in our machine.
