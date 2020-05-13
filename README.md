@@ -1,4 +1,4 @@
-Github Finder
+# Github Finder
 
 ## How to run
 
